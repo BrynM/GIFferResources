@@ -1,6 +1,6 @@
 # 3D Files in OBJ Format
 
-My workflow is to create or alter the models in Maya, export to OGJ, and then composite into my footage using Element3D for After Effects.
+My workflow is to create or alter the models in Maya, export to OBJ, and then composite into my footage using Element3D for After Effects.
 
 I apply procedural shaders to these for the most part using E3D. Occasionally I'll bust out PHotoshop for making a real texture, but in the end I use E3D to place those as well. If you resize these models, please keep in mind that you'll need to remap the UVs on your altered model or you'll get stretched textures when using image/texture based rather than procedural shaders.
 
