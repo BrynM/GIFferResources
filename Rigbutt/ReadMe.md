@@ -19,7 +19,7 @@ If you're missing any of those turn back now until you have them. There's nothin
 
 If you open the `Rigbutt.aep` project file, you'll see some stuff in there. **But,** you're not supposed to open that. Instead **import** it into your project.
 
-Drag the comp `bound-Rigbutt` onto [the comp you want him in(567k GIF)](documentationImages/rigbutt-import.gif). Then go to the Duik panel and select "Extract controllers" After that, the [controllers will show up for you to manipulate (653K GIF)](documentationImages/rigbutt-dragToComp.gif).
+Drag the comp `bound-Rigbutt` onto [the comp you want him in(567k GIF)](documentationImages/rigbutt-import.gif). Then go to the Duik panel and select "Extract controllers" After that, the [controllers will show up for you to manipulate (1M GIF)](documentationImages/rigbutt-dragToComp.gif).
 
 Once in your comp and set up, you can scale the `bound-Rigbutt` as you need. The controllers will stay in place thanks to Duik. **Note that Rigbutt does not have any keyframes set.** To animate him, you'll need to create keyframes for translation and rotation (and maybe some other stuff for the eye and mouth controllers - experiment!). After that, [you can animate the controllers freely (1.4M GIF)](documentationImages/rigbutt-keyIng.gif).
 
