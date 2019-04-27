@@ -25,7 +25,7 @@ Once in your comp and set up, you can scale the `bound-Rigbutt` as you need. The
 
 Finally, when you're done animating use the comp `colorControl-Rigbutt` to set the opacity of the controllers to 0 (layer `Control Opacity`). You can also control the other color aspects of Rigbutt using that comp. Want red outlines instead of black? Change the stroke on the `Rigbutt-Color` layer. Want a blue Rigbutt? Change the `Color Overlay` on that same layer.
 
-![Rigbutt Color Comp]((Rigbutt/documentationImages/usage-ColorComp.jpg?raw=true "Rigbutt Color Comp")
+![Rigbutt Color Comp](Rigbutt/documentationImages/usage-ColorComp.jpg?raw=true "Rigbutt Color Comp")
 
 ## You're on your own!
 
