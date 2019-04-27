@@ -27,6 +27,10 @@ Finally, when you're done animating use the comp `colorControl-Rigbutt` to set t
 
 ![Rigbutt Color Comp](documentationImages/usage-ColorComp.jpg?raw=true "Rigbutt Color Comp")
 
+## Locked layers
+
+There is a goodly pile of locked layers in this project and three of them will show up when you extract controllers. Leave them be unless you want to alter Rigbutt itself. Warning that you may break it in the process. I locked those layers for a reason.
+
 ## You're on your own!
 
 I offer no support for this and certainly do not deserve all of the credit for it. You're on your own for learning more about Duik and creating animations with Rigbutt. If you make improvements you think should be shared, please feel free to create a pull request with your changes.
